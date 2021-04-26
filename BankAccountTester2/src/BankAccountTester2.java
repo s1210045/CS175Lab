@@ -23,7 +23,7 @@ public class BankAccountTester2 {
 			System.out.println(account.getAccount());
 		}
 		
-		//sally
+		
 		accountList.add(sally);
 	
 
@@ -42,10 +42,11 @@ public class BankAccountTester2 {
 		
 		System.out.println( most.getAccount());
 		
-	//sally
+	
 		accountList.remove(sally);
 	
 		most = accountList.get(0);
+		
 		largest = 0;
 				
 		
